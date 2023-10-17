@@ -1,12 +1,10 @@
 # Web Infrastructure Design:
 
-![Example of web design]()
+![Example of web design](https://github.com/AaronEGH16/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/0-simple_web_stack.jpg)
 
 ## Infrastructure:
 
 ### Server:
-![Example of server]()
-
 A server is a computer (Physical) or computer system (Virtual) that responds to requests from other computers, known as clients. It can provide various services, such as file storage, access to network resources, or website hosting.
 
 Servers can be hosted at:
@@ -27,16 +25,10 @@ The domain name is a human-readable label that is associated with a unique IP ad
 
 The DNS record for "www" is generally a CNAME (Canonical Alias ​​Name) type record that points to the primary domain name, in this case, "foobar.com."
 ### Role of Web Server:
-![Example of web server]()
-
 A web server is a program that processes HTTP (**H**yper**t**ext **T**ransfer **P**rotocol) requests to serve web pages to users. It handles communication between the client and the server, serving web content and managing interaction.
 ### Role of Application Server:
-![Example of application server]()
-
 Application server is a software component that runs web applications and manages user requests. It can handle business logic, data processing, and cooperate with the web server to deliver dynamic content.
 ### Role of Data Base:
-![Example of Data Base]()
-
 The database stores and organizes data in a structured way. In the web context, it stores information necessary for the application, such as users, content, and settings.
 ### Communication with the User's Computer:
 Communication is carried out through the HTTP/HTTPS protocol. When a user requests a website, the server responds by sending the requested data through this protocol.
