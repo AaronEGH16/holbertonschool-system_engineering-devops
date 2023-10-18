@@ -1,6 +1,6 @@
 # Distributed web infrastructure:
 
-![Example of Distributed Infrastructure](https://github.com/AaronEGH16/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/1-distributed_web:infrastructure.jpg)
+![Example of Distributed Infrastructure](https://github.com/AaronEGH16/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/1-distributed_web_infrastructure.jpg)
 
 ## Infrastructure Explanation
 
