@@ -2,7 +2,7 @@
 
 ![Example of web design](https://github.com/AaronEGH16/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/0-simple_web_stack.jpg)
 
-## Infrastructure:
+## Infrastructure
 
 ### Server:
 A server is a computer (Physical) or computer system (Virtual) that responds to requests from other computers, known as clients. It can provide various services, such as file storage, access to network resources, or website hosting.
